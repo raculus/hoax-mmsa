@@ -1,7 +1,7 @@
 # 가라 모바일 보안
 카메라를 내 맘대로
 
-## 1. [프로파일 다운로드](https://raw.githubusercontent.com/raculus/hoax-mmsa/main/hoax-block.mobileconfig?token=ANIRGBLWXJYUMC6HEUHYJ6DAAKBKM)
+## 1. [프로파일 다운로드](https://github.com/raculus/hoax-mmsa/raw/main/hoax-block.mobileconfig)
 ## 2. 스크린 타임 설정
 ### 2.1 스크린 타임 켜기
 <img src="/img/1.png" width="60%" height="60%"></img><br/>
