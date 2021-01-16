@@ -1,7 +1,7 @@
 # 가라 모바일 보안
 카메라를 내 맘대로
-
-## 1. [프로파일 다운로드](https://github.com/raculus/hoax-mmsa/raw/main/hoax-block.mobileconfig)
+# 차단
+## 1. <a href="https://github.com/raculus/hoax-mmsa/raw/main/hoax-block.mobileconfig" target="_blank">차단 프로파일 다운로드</a>
 ## 2. 스크린 타임 설정
 ### 2.1 스크린 타임 켜기
 <img src="/img/1.png" width="60%" height="60%"></img><br/>
@@ -14,5 +14,6 @@
 <img src="/img/5.png" width="60%" height="60%"></img><br/>
 ## 3. 카메라 제한 완료!
 
-## 4. 카메라 사용 방법
-스크린 타임을 끄거나, 허용된 앱>카메라 허용하기
+# 해제
+스크린 타임을 끄거나, 허용된 앱>카메라 허용하기 또는
+## 1.<a href="https://github.com/raculus/hoax-mmsa/raw/main/hoax-unblock.mobileconfig" target="_blank">허용 프로파일 다운로드</a>
