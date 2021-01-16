@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>장비 제한사항을 구성합니다.</string>
+			<key>PayloadDisplayName</key>
+			<string>제한사항</string>
+			<key>PayloadIdentifier</key>
+			<string>kr.go.mmsa.제한사항</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>FCB26815-1188-3585-16F7-DD4E617BCF33</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowCamera</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>Private_Root(Lock)</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDJDCCAgwCCQCj8pSZtWJufzANBgkqhkiG9w0BAQUFADBTMQsw
+			CQYDVQQGEwJLUjElMCMGA1UECgwcTWluaXN0cnkgb2YgTmF0aW9u
+			YWwgRGVmZW5zZTEdMBsGA1UEAwwUTW5kIENhbWVyYSBEZW55IENl
+			cnQwIBcNMTkxMTExMDgyOTA3WhgPMjExOTEwMTgwODI5MDdaMFMx
+			CzAJBgNVBAYTAktSMSUwIwYDVQQKDBxNaW5pc3RyeSBvZiBOYXRp
+			b25hbCBEZWZlbnNlMR0wGwYDVQQDDBRNbmQgQ2FtZXJhIERlbnkg
+			Q2VydDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK5A
+			g6IvTf0TG1efz+BPzj82pa3Qfcxd1hXwiNQz/yr+rw6zohCqk/ZY
+			D3kJv7ZobbMApkNiAFoolAAb6UvXjB67JfoGkGFN2xNQ5X8Di3U9
+			InHesF0TXYyjsrc5v0TbWaVeGmNmABwbFNam3065t1Ti5aD/MebS
+			5h6keW4K0Vpzj9LtFCIMT/lsnbw68p88kecGlWNCSF2vN2QtjpwS
+			vj91L3/uDITGyu003s2j1yOKRgMsMaD2wOUtZD8Ij0d/MZJrI/ug
+			65sSMnxayPKy5/8Q1Dwki2MDBZFZ3adTokBVGlhO3hOlrhnKzWJ4
+			Lsxccva60bVBliSYxYYRHvb1l4sCAwEAATANBgkqhkiG9w0BAQUF
+			AAOCAQEACtOXMgswlpvqV23XeK9qFlgMIrflGlpxqbEagh+u3v1c
+			AzMlRmN3UJqtvbW5T6cmtWxlOmnUaj7rTEoR8K88+pdKcpRE3Zpt
+			6SFb89euyQZYYE3V7Yl63DlaON9XHleOOii3q7mIw7MDsQbuPCZa
+			E5kkFo7vXi5BQJy2/8ceomuQSA4Jz3xwPepUV3eV6aiV81j8P/ff
+			/g2hkO5nmhyLnNsYJTNxKDgvQy23KgZeFMnq9sPDdtxzFB7acN8z
+			pujXxS71k+exKxvn5tZYDcTLNXKbaheY8BopsDU09WV/KZq+9npy
+			DIPb75U+4HbAEEynUnb1dvo07EWgt0ieS27fiQ==
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>capt.prevent.certificate3</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>40B8D8A8-9E18-9F3F-3EB4-6F0FBA849095</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>Private_Sign</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDIDCCAggCCQDcz6eFse5d8DANBgkqhkiG9w0BAQUFADBRMQsw
+			CQYDVQQGEwJLUjElMCMGA1UECgwcTWluaXN0cnkgb2YgTmF0aW9u
+			YWwgRGVmZW5zZTEbMBkGA1UEAwwSTW5kIFNpZ25hdHVyZSBDZXJ0
+			MCAXDTE5MTExMTA4NDAyOFoYDzIxMTkxMDE4MDg0MDI4WjBRMQsw
+			CQYDVQQGEwJLUjElMCMGA1UECgwcTWluaXN0cnkgb2YgTmF0aW9u
+			YWwgRGVmZW5zZTEbMBkGA1UEAwwSTW5kIFNpZ25hdHVyZSBDZXJ0
+			MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvcZcBqYy
+			OZSk/OxLHB7IGu6ZSgW38YIndy/Vu3uuw4cxemn/aOY9OQ4AQUne
+			Yhgk83ATrpJnsrsPQHQH7M2UCTyxX/GzKjuLuGx2ZBza062l/8jo
+			LZEL5Y08Ce3epSnjmqJSot42qwvbT1yjryGDQ5rg35Demm1ksa1u
+			q4fpc+CVqzc97/QVYch+78FN44xeLO3vVRdzfJDXkPS1ZVqzL5+3
+			MtGU01fGQGEkNaPsaG/DLO5wze6LNSV4ocpeEy4gq42sJHvq5V2I
+			UuhjFLjSEi8QhBu+J1siGA2oYq2ZZxxEfQtCnawbRANrmS56JFtw
+			HhsdygIQxnNUMfz4S7E3KwIDAQABMA0GCSqGSIb3DQEBBQUAA4IB
+			AQAtK11bwH8Bfjm+sox1N1ExeLyXQTpSNFvbkzz79S8YRA/9aWvk
+			PPwgNU2+a1aV4/txfNUTDEjAKoAIonX4Mo0EBGDPuIluTrFyz4IR
+			5U/ykZxgCbsBG39EuxesumdUTtN+FESAuBUlQV6EHabPw/Gw6lak
+			+Vj8ceE1z9fI0hA/ktuKqhKSIpNhxLXwXp4rruqJBdpqyV2cWcf8
+			A6Oon9F69XNO0rIR7gSVSGzm0IkHlC09M2jywSYdJwgVHczHRZjz
+			jAytUQsgZrMNFKY9kWIwKykP+E3Lnj74JWiSgc+D83o85fh5Mo9E
+			qqi9ZyTRtAcKNu77nrqTw+scjHsaZDxH
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>capt.prevent.certificate4</string>
+			<key>PayloadOrganization</key>
+			<string>대한민국 국방부</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>1a611ab8-23ea-4371-82c7-f209e93b01ff</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>정상적인 서비스 사용을 위해 카메라 허용 프로파일을 반드시 설치하시기 바랍니다.</string>
+	<key>PayloadDisplayName</key>
+	<string>카메라 허용 프로파일</string>
+	<key>PayloadIdentifier</key>
+	<string>kr.go.mmsa.profile</string>
+	<key>PayloadOrganization</key>
+	<string>대한민국 국방부</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>422C21CB-D17E-D0CE-AFE6-F9C210EB5E14</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
