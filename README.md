@@ -1,5 +1,4 @@
 # 가라 모바일 보안
-카메라를 내 맘대로
 # 차단
 ## 1. <a href="https://github.com/raculus/hoax-mmsa/raw/main/hoax-block.mobileconfig" target="_blank">차단 프로파일 다운로드</a>
 ## 2. 스크린 타임 설정
